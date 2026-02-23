@@ -3,7 +3,7 @@
 ### 🏆 Key Achievements
 * **International Gold Medal** – 5th ISLC (Robotic Control Design).
 * **National 2nd Winner** – STEM Robotic Competition (Edge AI Integration using YOLO & NVIDIA Jetson Nano).
-* **National Essay Finalist** – Academic writing and critical thinking.
+* **Silver Medalist & Favorite Poster - FIM2 National Competition** – Academic writing,Strategic Thinking & Creative Communication.
 
 ### 🛠 Technical Expertise
 * **AI & Computer Vision:** YOLO Object Detection, OpenCV, Microsoft Azure AI Fundamentals.
